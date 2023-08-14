@@ -1,5 +1,5 @@
 # Web traffic time series forecasting
-👋 Welcome to my Web traffic time series forecasting model project! This project uses a pre-trained CNN model to forecast the web traffic by using sessions on hour index.
+👋 Welcome to my Web traffic time series forecasting model project! This project uses LSTM model to forecast the web traffic by using sessions on hour index.
 # Dataset
 The dataset used for this project is available [here](https://www.kaggle.com/kajal1/web-traffic-forecast-dataset)
 # Model
